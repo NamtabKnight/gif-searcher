@@ -3,7 +3,7 @@ Made from Vue.js tutorial from https://medium.com/@madsbrodt3/building-a-gif-sea
 First pass with no additional thrills
 
 ToDo:
-1) Listen for 'Enter' key event
+1) Listen for 'Enter' key event - finished 4/15/18
 2) Random button
 3) Share functionality
 4) Allow user to set return limit

@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <h1>Amazing Gif Searcher</h1>
-    <input type="text" v-model="searchTerm">
-    <button class="button" @click=getGifs()>Search</button>
+    <input type="text" v-model="searchTerm" @keyup.enter=getGifs()>
+    <button class="button" @click=getGifs() >Search</button>
     <div class="gif-container">
       <img v-for="gif in gifs" :src="gif" :key="gif.id">
     </div>

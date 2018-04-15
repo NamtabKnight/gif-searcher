@@ -1,0 +1,10 @@
+Made from Vue.js tutorial from https://medium.com/@madsbrodt3/building-a-gif-searcher-with-vue-and-the-giphy-api-3d8e9a92f0f8.
+
+First pass with no additional thrills
+
+ToDo:
+1) Listen for 'Enter' key event - finished 4/15/18
+2) Random button
+3) Share functionality
+4) Allow user to set return limit
+5) Spruce it up a bit, visually
